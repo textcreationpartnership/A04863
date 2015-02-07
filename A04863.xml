@@ -1908,7 +1908,10 @@ them to march vp close pouldron to pouldron of the first te<g ref="char:cmbAbbrS
                               <desc>•</desc>
                            </gap>.</hi>
                      </note>Your squadron being thus framed &amp; set, at 10 rankes, &amp; 10 files, the<g ref="char:cmbAbbrStroke">̄</g> to double the rankes, you shall cause vpon an other sound of the drum, those of the second ranke, to step in betwixt them of the first ranke, beginning either vpon the left or right hand first, as you will: and the 4 ranke to double the 3, and againe the 6 ranke to double the 5, and the 8 ranke to double the 7, and finally the 10 to double the 9, so shall your battell or squadron come to be 20 in breadth, and 5 in length or depth; or 20 files and 5 rankes, which is in forme of a battell of double front as by these figures appeareth.</p>
-                  <figure/>
+                  <p>
+                     <pb n="39" facs="tcp:7227:24"/>
+                     <figure/>
+                  </p>
                   <p>Here you see the rankes doubled into 20 files and 5 rankes. Then cause them vpon another sound of the drumme,<note place="margin">
                         <hi>To fall off.</hi>
                      </note> to fall of, or backe againe into their former places: and so to double againe vpon the other hand, and fall off againe. Now, to double the file;<note place="margin">
@@ -1963,16 +1966,18 @@ vnderstandeth this well, may do the like with any other numbers great or small.<
                      </note> &amp; comming once within reach of the musket, then the first ranks of these sleeues of muskets many discharge in marching in this sort. The first ranks step<g ref="char:EOLhyphen"/>ping some two or three paces forward, &amp; there those of the right sleeue to step one halfe pace toward the right ha<g ref="char:cmbAbbrStroke">̄</g>d, &amp; those of the left sleeue, one half pase toward the left hand, hauing in the meane space made themselues ready, and cocked their matches, then with readinesse &amp; expedition all those of the<g ref="char:cmbAbbrStroke">̄</g> first ranks, their mus<g ref="char:EOLhyphen"/>kets being vpon their rests or forks, to discharge at once, and keep their station, &amp; charge againe, permitting other rankes to proceed before them. Then presently those of the second ranke to step vp iust before the first rank, as the battell or bat<g ref="char:EOLhyphen"/>tallion marcheth, and so to discharge as their former fellowes had done before: &amp; then the 3. rank before the 2. &amp; the 4. before the 3. and so all the other ranks con<g ref="char:EOLhyphen"/>sequently with this kind of double march: and at the traine of the last rank, those of the first to follow vp againe:<note place="margin">
                         <hi>How to discharge vpon a counter<g ref="char:EOLhyphen"/>march.</hi>
                      </note> and so consequently the rest. But if it chance their squadron of pikes to be distressed, &amp; forced to retire, they are to discharge at the e<g ref="char:EOLhyphen"/>nemy, retiring backe, vpon a countermarch, as these figures following shal plain<g ref="char:EOLhyphen"/>lie denote vnto you the maner and order.</p>
-                  <figure>
-                     <head>The First Figure.</head>
-                  </figure>
-                  <figure>
-                     <pb n="42" facs="tcp:7227:26"/>
-                     <head>The second Figure with the Muskets discharging in marchings.</head>
-                  </figure>
-                  <figure>
-                     <head>The third Figure vpon the retrait, the shot discharging vpon a Counter-march.</head>
-                  </figure>
+                  <p>
+                     <figure>
+                        <head>The First Figure.</head>
+                     </figure>
+                     <figure>
+                        <pb n="42" facs="tcp:7227:26"/>
+                        <head>The second Figure with the Muskets discharging in marchings.</head>
+                     </figure>
+                     <figure>
+                        <head>The third Figure vpon the retrait, the shot discharging vpon a Counter-march.</head>
+                     </figure>
+                  </p>
                   <p>
                      <note place="margin">
                         <hi>Musketiers wheeled into a halfe moone to discharge in vollie.</hi>
@@ -2206,10 +2211,12 @@ or to defend; and also according to the situation of the ground, and shall serue
                                     <p>4 to 1, that is, foure times so broade as long.</p>
                                     <p>5 to 1, that is, fiue times so broade as long,</p>
                                     <p>6 to 1, that is, sixe times so broade as long.</p>
-                                    <figure/>
-                                    <figure>
-                                       <pb n="50" facs="tcp:7227:30"/>
-                                    </figure>
+                                    <p>
+                                       <figure/>
+                                       <figure>
+                                          <pb n="50" facs="tcp:7227:30"/>
+                                       </figure>
+                                    </p>
                                  </div>
                               </div>
                            </body>
@@ -2235,7 +2242,10 @@ or to defend; and also according to the situation of the ground, and shall serue
                            <desc>〈 math 〉</desc>
                         </gap>
                      </note> both in breadth and length; and there will remaine 100 men. For 70 multiplied into itselfe resulteth 4900, the which deducted out of 5000, there resteth 100 men, the which 100 men deuide by 70, so will there arise one more ranke of men, and yet will there remaine 30 men ouer, the which one ranke shall be ioyned vnto the 70 rankes aforesayd, so are they 71 in breadth and 70 in length: but to the end you may better vnderstand me, I will go shewing the same by figures, whereof this shall be the first.</p>
-                  <figure/>
+                  <p>
+                     <pb n="51" facs="tcp:7227:30"/>
+                     <figure/>
+                  </p>
                   <p>And the 30 men which do remaine out of the body of the battell, they shall be reserued for other purposes.</p>
                   <p>And this square battell of number of men may be done in a more shorter and readier way,<note place="margin">
                         <hi>A more exquisit way to frame any square battell of men.</hi> 
@@ -2372,7 +2382,16 @@ the front and in traine of the battell, as in the calculation of the 3 and 4 fig
                            <desc>〈 math 〉</desc>
                         </gap>
                      </note> the other to arme the vaward and rereward of the battell; then place downe your rule in this sort. If 10 require ⅔ what 3/2000. Now multiplie 3 the second with 2000 the third, and it resulteth 6000: and this 6000 deuide by 10 the first, so will there come 600 armed men; and these 600 armed men shal be to arme the two sides: and deducting 600 out of 2000, there resteth 1400 ar<g ref="char:EOLhyphen"/>med men, the which are to arme the front and reregard of the battell. Now must these 600 armed men be reparted by the length of the battell, that is, by 46. so will there come 13 in ranke for the length. And of these 13 rankes, you shall place 7 per ranke on the one side, &amp; 6 per ranke on the other side of the battel in length, as in the figure on the next page appeareth.</p>
-                  <figure/>
+                  <p>
+                     <pb n="58" facs="tcp:7227:34"/>
+                     <note place="margin">
+                        <hi>Remaines.</hi> 
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </note>And there remaineth 2 ar<g ref="char:EOLhyphen"/>med
+<figure/>
+men, the which shall be ioyned with the 1400 armed men, and it maketh 1402, &amp; with these 1402 shall the vaward and rereward of the battell be armed. Now for to arme this fro<g ref="char:cmbAbbrStroke">̄</g>t &amp; traine of the battell, there shall first be de<g ref="char:EOLhyphen"/>ducted 13 rankes of armed men of the length, out of 108 ranks, the breadth of the bat<g ref="char:EOLhyphen"/>tell, and there will remaine 95, and the 1402 armed men shall be deuided by this 95, and there will come 14 ranks at 95 men per ranke of ar<g ref="char:EOLhyphen"/>med men. Now of these 14 rankes there shall be placed 7 rankes at the front, and 7 on the rereward of the battell. So the battell shall containe in length or by flanke 46 rankes at 108 men by ranke in front, with 7 armed men per ranke on the one side, and 6 armed men per ranke on the other side of the battell in flanke, and 72 armed men remaining, the which you shall place where you shall thinke best, as here appeareth in figure.</p>
                   <figure/>
                   <p>
                      <pb n="59" facs="tcp:7227:34"/>Now the 72 men remaining, I haue placed in the 4 angles, as in this 8 figure aboue appeareth:</p>
@@ -2438,14 +2457,27 @@ your good discourses and de<g ref="char:EOLhyphen"/>monstrations, that I finde m
                         <hi>Out of</hi> 3 <hi>maner of marchings to frame a battell with speed. The first maner.</hi>
                      </note> And this battell shal be speedily set after the order of the three maners of marching, as at the beginning I told you. The first maner is, when the companies do march with one part of the armed Pikes at the foreward, and an other part at the rereward of the vnarmed Pikes, as I will shew you in the tenth figure.</p>
                   <p>In this case, hauing the Table in memorie, onely there resteth to commit vnto two expert officers (as Caporals of the field, or such like) at the time of setting the battell, that the one go vnto the head and the other vnto the traine of the Orde<g ref="char:EOLhyphen"/>nances or Arrayes: and let him that stands at the head, cause or commaund to turne or wheele either from the right hand, or from the left (as shal be most con<g ref="char:EOLhyphen"/>uenient) 95 rankes, at 10 armed men per ranke, and hauing finished, to set the 95 rankes at 10 armed men <hi>per</hi> ranke, he shall cause them to turne their fa<g ref="char:EOLhyphen"/>ces from that part whither the Ordinances or Arrayes do looke, as you shal see designed in the eleuenth figure on the page next following.</p>
-                  <figure/>
+                  <p>
+                     <pb n="61" facs="tcp:7227:35"/>
+                     <figure/>
+                  </p>
                   <p>
                      <pb n="62" facs="tcp:7227:36"/>Then besides this, let him place 32 rankes of the arraies of the vnarmed pikes at the backes of the armed pikes, so many as they be rankes in length in the battell of the vnarmed pikes, as in the 8 table before figured appeareth; afterward let him go from hand to hand, drawing out of the arraies 32 rankes of vnarmed pikes, and set them one by another shoulder to shoulder, as I haue demonstrated in the 12 figure, and as I will shew you in this 13 figure.</p>
                   <figure/>
-                  <figure/>
-                  <figure/>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb n="63" facs="tcp:7227:36"/>And as the Arraies of the vn<g ref="char:EOLhyphen"/>armed
+<figure/>
+Pikes shall be placed shoulder to shoulder one of another, at the backes of the first 10 rankes of the armed Pikes; then the Officer which sta<g ref="char:cmbAbbrStroke">̄</g>deth with the armed pikes for the traine, shall drawe forth 95 rankes, at 10 men per ranke of armed pikes, and place them with their shoul<g ref="char:EOLhyphen"/>ders to the backes of the vn<g ref="char:EOLhyphen"/>armed pikes, as in this 14 figure shall appeare.</p>
+                  <p>This being done, let the
+<figure/>
+Officer of the Vanguarde draw out three rankes of the armed pikes, and arme the one flanke at 7 men in ranke; and he that is at the Reregard, let him take 3 ranke of his armed pikes, &amp; arme the other flanke, at 6 men in ranke, as in this fif<g ref="char:EOLhyphen"/>teenth figure appeareth.</p>
+                  <p>
+                     <pb n="64" facs="tcp:7227:37"/>And there remaines 72 ar<g ref="char:EOLhyphen"/>med
+<figure/>
+men: the which shall be placed in the angles of the Battell, in such order as I shewed you in the decla<g ref="char:EOLhyphen"/>ration of the fourth figure; and as here againe in this sixteenth figure shall ap<g ref="char:EOLhyphen"/>peare.</p>
+                  <p>Or otherwise acco<g ref="char:cmbAbbrStroke">̄</g>modate
+<figure/>
+those 72 armed men afore<g ref="char:EOLhyphen"/>said (being of the number contained within the bodie of the battel) thus: let there of them be made 2 rankes, to set vnto the one or vnto the other flanke of the bat<g ref="char:EOLhyphen"/>tel, where you shal see most need &amp; occasion, for the de<g ref="char:EOLhyphen"/>fence and strength thereof. But now they shalbe placed one ranke vppon the one flanke, and another vppon the other flanke of the bat<g ref="char:EOLhyphen"/>tell; as here in this seuen<g ref="char:EOLhyphen"/>teenth figure shall plainly appeare.</p>
                   <p>And there will yet remaine 8 armed men, to place where you shall thinke good. Aduertising you, that if you should haue set the 72 armed men which be<g ref="char:EOLhyphen"/>fore remained, at the head or tayle of the battell, it would not haue reached vnto one whole or full ranke vnto the breadth of the battell: for an intire ranke of the
 <pb n="65" facs="tcp:7227:37"/>
 inner part of the battell in breadth is 95 men, that is, so many as the breadth of the vnarmed pikes do containe. Thus the battell declared by the aforesayd 17 figure will be in length 46 rankes, at 108 men <hi>per</hi> ranke in breadth, with the 7 rankes of armed pikes in the front, and 7 rankes in the reareward, and with 8 men <hi>per</hi> ranke of armed pikes on the one flanke, and 7 men by ranke of armed pikes on the o<g ref="char:EOLhyphen"/>ther flanke, as in the aforesayd 17 figure appeareth, with the 8 men which remai<g ref="char:EOLhyphen"/>ned, placed in the body of the battell.</p>
@@ -2462,7 +2494,10 @@ inner part of the battell in breadth is 95 men, that is, so many as the breadth 
                   <p>
                      <hi>You must note and conceiue, that in the</hi> 18 <hi>figure, where the companies do march one after another by fiue in a ranke, and in the</hi> 19 <hi>figure, where they do come vp shoulder to shoulder to the framing of the battell, as may appeare, although the full number of companies do not there appeare, as is requisit: yet it is to be conceiued that they do consequently one follow another, but want of rome in paper cutteth them off.</hi>
                   </p>
-                  <figure/>
+                  <p>
+                     <pb n="66" facs="tcp:7227:38"/>
+                     <figure/>
+                  </p>
                   <p>
                      <pb n="67" facs="tcp:7227:38"/>And the 72 armed pikes remaining, which are of the number contained with<g ref="char:EOLhyphen"/>in the body of the battell, shall be placed either in the foure corners of the vnar<g ref="char:EOLhyphen"/>med pikes, as in the 16 figure may be seene; or else in each of the two sides or flankes, as in the 17 figure appeareth, where there is one ranke adioyned vnto the one flanke, and another vnto the other flanke; or else you may arme and strength with the same 72 armed pikes, any one of the flankes, as neede or occasion shall require.</p>
                </sp>
@@ -2476,9 +2511,12 @@ inner part of the battell in breadth is 95 men, that is, so many as the breadth 
                         <hi>The third order by marching ma<g ref="char:EOLhyphen"/>niple by maniple.</hi>
                      </note> When the armie is caused to march <hi>Maniple</hi> by <hi>Maniple,</hi> with their armed pikes in vantgard and rearegard of euery particular <hi>Maniples</hi>; and with one <hi>Maniple</hi> all of armed pikes, which mar<g ref="char:EOLhyphen"/>cheth in the vantgard of the <hi>Maniples</hi> which haue their vnarmed pikes in their middle or center: the which <hi>Maniples</hi> of all armed pikes, is that which serueth to arme the one flanke of the battell. Besides this, there marcheth another <hi>Maniple</hi> of all armed pikes, after all the <hi>Maniples</hi>; and this <hi>Maniple</hi> serueth to arme the o<g ref="char:EOLhyphen"/>ther flanke of the battell. And the <hi>Maniples</hi> must march the one after the other, as in the figure appeareth.</p>
                   <p>Now, there resteth how to bring those into <hi>Maniples</hi> of this last order, which do march in the full length of the battell, with their armed pikes in front and traine; the which shalbe done in this sort. Let it be supposed (as the 17 figure of the second order doth shew) that there shall be drawne foorth 15 men in ranke of armed pikes in length of the battel, which serue to arme the two flanks, out of 108 men <hi>per</hi> ranke, the breadth of the battell, there resteth 93 men <hi>per</hi> ranke for breadth or front. And these 93 must be diuided into so manie parts, as one would that the <hi>Maniples</hi> should march in ordinance or arraies, the one after another, as the way will permit.</p>
-                  <figure>
-                     <pb n="68" facs="tcp:7227:39"/>
-                  </figure>
+                  <p>Now say that I will haue the <hi>Maniples</hi> to march by 5 in a ranke, then must I deuide the 93 (the breadth of the battell) by 5, whereof commeth <hi>Maniples</hi> 18, which shall containe in length rankes 46 at 5 men in a ranke; and one <hi>Maniple</hi> remaining at 3 men <hi>per</hi> ranke; the which <hi>Maniple</hi> is also 46 rankes in length, at 3 men in rankes. Notwithstanding it shall march (in marching) at 5 men in ranke after all the <hi>Maniples</hi> aforesayd. And the 18 <hi>Maniples</hi> doe march with 7 rankes of armed pikes before, and 7 rankes after: and the <hi>Maniple</hi> of 3 <hi>per</hi> ranke, shall, at the time of setting the battell, distend to the shoulders of the o<g ref="char:EOLhyphen"/>ther <hi>Maniples</hi> at 3 <hi>per</hi> ranke, with 7 rankes, armed pikes in front, and 7 rankes ar<g ref="char:EOLhyphen"/>med pikes in trayne. And the other two <hi>Maniples</hi> of armed pikes, which serue to arme the two flankes, the one marcheth in the vantgard, and the other in the reare<g ref="char:EOLhyphen"/>ward of the <hi>Maniples</hi> which haue their vnarmed pikes in the middle (yet at 5 in ranke) as appeareth in the 22 figure, and at the instant that the battell is to be set, the Sergeant Maior shall accommodate and fasten the <hi>Maniples</hi> of all armed pikes, that marcheth in the foreward of all the <hi>Maniples,</hi> into 46 rankes, at 8 men armed <hi>per</hi> ranke, and the other <hi>Maniples</hi> shall follow from hand to hand, poul<g ref="char:EOLhyphen"/>dron to pouldron, the one to the other, as the 23 figure and 24 declareth, begin<g ref="char:EOLhyphen"/>ning with the armed <hi>Maniple,</hi> which armeth the flanke at 8 men in ranke by length. These <hi>Maniples</hi> thus brought shoulder to shoulder, one to the other, then
+<figure>
+                        <pb n="68" facs="tcp:7227:39"/>
+                     </figure>
+                     <pb n="69" facs="tcp:7227:39"/>
+shall follow that <hi>Maniple</hi> of and <hi>per</hi> ranke (the which yet marcheth at 5 <hi>per</hi> ranke in array) and shall distend vnto the shoulders of the other <hi>Maniple,</hi> at 3 <hi>per</hi> ranke, with 7 armed pikes in front, and 7 in traine. After all this shall follow the other <hi>Maniple</hi> of all armed pikes, and shall stretch foorth vnto 7 in a ranke vnto the shoulder of the other <hi>Maniples,</hi> to arme the other flanke of the battell. And thus is the battel framed 46 rankes in length, at 108 men by ranke in breadth, with 7 rankes of armed pikes in front, and 7 in traine, and with 8 armed pikes in ranke, on the one flanke, and 7 in a ranke on the other flanke, of armed pikes, as in the 24 and 25 figures: and there remaines 32 armed pikes, the which shall be pla<g ref="char:EOLhyphen"/>ced as I said before, in the last maner of the third order.</p>
                   <p>Aduertising you,<note place="margin">
                         <hi>Aduertisement.</hi>
                      </note> that although I haue giuen order and examples to arme the front, traine, and both flankes of the battell, in forme and manner as I haue set downe in the 24 and 25 figures, with placing the armed pikes which remained out of them which armed the front, traine, and both the flankes of the battell, in the angles &amp; flankes of the sayd battell, as by their seuerall figures may be seene; yet, notwithstanding the aforesayd examples, they may be placed where most neede and occasion shall serue to strengthen the battell, either in front, in traine, or in any flanke. So may you also, as occasion shall require, set more armed pikes vpon any part, for the more strength and securitie of the battell. And this much may suffice,<note place="margin">
@@ -2533,12 +2571,22 @@ horse,<note place="margin">
                               <desc>•</desc>
                            </gap>ff, and not farther.</hi>
                      </note> vntill the battels approch within 20 pases distant, and then throughly to discharge in vollie vpon the face of the enemy: the which cannot chuse, but must slay many, and wound a number in the enemies front; the effect whereof shall breede great encouragement vnto you, and disencouragement, and weakening to the enemy. You may also (if you please) place at euery corner of your battel a squa<g ref="char:EOLhyphen"/>dron of Muskets, neare vnto the girdling shot, at 50 Muskets in each squadron, or as occasion shall require; who, vpon the enemies battell approching, wheeling a litle about, in forme of a halfe Moone, shall discharge their volly all at once, vpon the body of the enemies battell. What execution the Musket performeth, such as haue bene in good actions doe know very well; and scarcely to be beleeued of those which neuer saw any seruice. The figure of this battell, empaled with shot, cornered with Muskets, and trouped round about with the rest of their shot, win<g ref="char:EOLhyphen"/>ged with horse, as men at armes (if they haue any) and Launciers, and light horse, with the place of the field ordinance, and forlorne skirmishers, shall hereafter ensue, on the other side of the leafe.</p>
-                  <figure>
-                     <head>The imbattailing of <hi>5200</hi> pikes, armed and vnarmed, short weapon <hi>1300,</hi> muskets <hi>3250,</hi> calliuers <hi>3250.</hi> And of <gap reason="illegible" resp="#PDCC" extent="1 word">
-                           <desc>〈◊〉</desc>
-                        </gap> armes, <hi>400</hi>: and Launces <hi>1000,</hi> and <hi>600</hi> hargulutiers, with <hi>14</hi> field peeces.</head>
-                  </figure>
-                  <figure/>
+                  <p>
+                     <pb n="72" facs="tcp:7227:41"/>
+                     <figure>
+                        <head>The imbattailing of <hi>5200</hi> pikes, armed and vnarmed, short weapon <hi>1300,</hi> muskets <hi>3250,</hi> calliuers <hi>3250.</hi> And of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> armes, <hi>400</hi>: and Launces <hi>1000,</hi> and <hi>600</hi> hargulutiers, with <hi>14</hi> field peeces.</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <pb n="73" facs="tcp:7227:41"/>And if you would fight with the same number of men in sundry battallions of the same kind; deuiding them into 3 battallions, distinguished by vangard, battell, and reareward, worke thus: first deuide your grand number of men, which is 4968, by 3 and the product will be 1656 men for euery battallion.<note place="margin">
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </note> Now, to frame their battallions in the same proportion that your grand square was of, which was, as 7 to 3, couch downe your number thus: 7—3—1656. Multiply, and deuide, and the product will come foorth 709, of the which extract the cubike roote, which is 26 men for the length or depth of the battallion; by this 26 de<g ref="char:EOLhyphen"/>uide the number of men for your battallion being 1656, and the product will bee 63 men, for the breadth or front of each battallion. Now the order to march these battallions vp to fight (wherein must be considered the ground, and diuerse other aduantages) the one to second the other, behold here in figure, where the vangard (being formost) hauing encountred the enemy, and finding themselues weake, re<g ref="char:EOLhyphen"/>tireth orderly, and the battell aduanceth, who ioyning with the vangard, do both together giue a second charge, &amp; being yet distressed, the reareward marcheth vp close by the battell, &amp; renew the fight a fresh; of the which order of battell, and bat<g ref="char:EOLhyphen"/>tallions, there shall be both figures &amp; tables extant in our last booke. The shot &amp; horse belonging to these numbers, are to be deuided, and placed by the Campe-Maister Generall, and Sergeant Maior Generall, on grounds of most aduantage.
+<figure/>
+or if it be thought good, the vantgard may be pla<g ref="char:EOLhyphen"/>ced in the middle, the battell on the right wing, and the reareward on the left wing; as the ground, occasion, and the commanders opinion shall con<g ref="char:EOLhyphen"/>curre, and euery battallion to haue his proporti<g ref="char:EOLhyphen"/>onall shot deuided into sundrie troupes, the one to second another, as before appeareth.</p>
                   <p>
                      <pb n="74" facs="tcp:7227:42"/>
                      <note place="margin">
@@ -2752,17 +2800,39 @@ no force to fight, by reason of their raritie &amp; thin standing, as in the for
                            <hi>Of 2 triangles is framed a Dia<g ref="char:EOLhyphen"/>mant.</hi>
                         </p>
                      </note> is formed a Perfect Diamant battel, by ioyning the two rereward parts together. But first out of the one Triangle must be drawen the last ranke of all, the which may be placed at the latter point of the Diamant battell, or else as the Sergea<g ref="char:cmbAbbrStroke">̄</g>t Maior shall thinke good. The figures of both which squadrons reduced into Diamant formes, and from Diamants into 2 Triangles, lastly adioyning the 2 Triangle backe parts together, is formed a perfect Diamant battell fit to fight; as by their seuerall figures here following may be seene.</p>
-                  <figure/>
+                  <p>
+                     <pb n="79" facs="tcp:7227:44"/>
+                     <figure/>
+                     <note place="margin">
+                        <hi>The square.</hi>
+                     </note>
+                  </p>
                   <p>These two squadrons shal be reduced into 2 triangles, in manner as aforesaid, which will be in forme following.</p>
-                  <figure/>
+                  <p>
+                     <figure/>
+                     <note place="margin">
+                        <hi>The triangle.</hi>
+                     </note>
+                  </p>
                   <p>In these 6 former figures, I haue declared the order how, out of 2 squadrons of men, to bring them into 2 Diamant formes simple, and out of 2 Diamant formes single, to reduce them into 2 perfect Triangles, by causing all their middle ranks to march vp, vntill they find their leadsman before them in their due distance: the which 2 Triangles, being thus perfected (as in the 4 and 5 figure may appeare) and ioyning the two backe parts together, do make this perfect Diamant forme to fight, as here by the 2 figures following shall appeare. But of the second fi<g ref="char:EOLhyphen"/>gure
 <pb n="80" facs="tcp:7227:45"/>
 I haue drawen the latter ranke of one of the Triangles, being nine men, and placed them at one of the corners.</p>
                   <figure/>
                   <p>Now, touching the Sheeres battell, the same is to be made of 4 battallions of equal proportio<g ref="char:cmbAbbrStroke">̄</g>, working, as before you did with the Diamant &amp; Triangle battels: the which 4 battallions being reduced (as before is sayd) into 2 triangles, and ioy<g ref="char:EOLhyphen"/>ning their two corners together, is framed the Sheeres battell, as here you see.</p>
-                  <figure/>
+                  <p>
+                     <note place="margin">
+                        <hi>The Sheeres bat<g ref="char:EOLhyphen"/>tell.</hi>
+                     </note>
+                     <figure/>
+                  </p>
                   <p>Loe here the Sheere battell framed of 4 battallions; to backe the which you must draw vp 2, 3 or 4 rankes of pikes according to the proportion of the battell, and place them on the backe part thereof, as you see aboue designed by this let<g ref="char:EOLhyphen"/>ter <hi>O,</hi> where I haue backed the same with 2 rankes, at 18 men in a ranke. And also the same order is to be obserued in the Saw battell, as after appeareth. Next is the Saw battell, which containeth 3 sharpe angles framed of 6 battallions, in such order as the Wedge, &amp; Sheeres battels before wrought, as here in the figure fol<g ref="char:EOLhyphen"/>lowing is designed.</p>
-                  <figure/>
+                  <p>
+                     <pb n="81" facs="tcp:7227:45"/>
+                     <figure/>
+                     <note place="margin">
+                        <hi>The Saw battell.</hi>
+                     </note>
+                  </p>
                   <p>Thus you see this Saw battell framed and reduced out of 6 square battallions. But there is another order yet to frame these Diamant,<note place="margin">
                         <hi>An other order yet to frame their battels.</hi>
                      </note> Triangle, Saw, and Sheere battels, which is thus: Place in the first angle or ranke, one man; in the se<g ref="char:EOLhyphen"/>cond ranke 3 men, in the third ranke, 5 men, and in the fourth ranke 7 men; and so consequently adding vnto euery ranke 2 men, vntill you haue finished your bat<g ref="char:EOLhyphen"/>tell into such proportion as you shall thinke good.</p>
@@ -2790,7 +2860,10 @@ I haue drawen the latter ranke of one of the Triangles, being nine men, and plac
                      <note place="margin">
                         <hi>The crosse bat<g ref="char:EOLhyphen"/>tell, and order thereof.</hi>
                      </note> and high <hi>Ger<g ref="char:EOLhyphen"/>maines.</hi> The forme whereof, be it in sundry battallions seuerally appointed, or in one whole and entire battell all together ioyned, is no doubt, of maruellous great strength and verie excellent conueyance: by reason of the sundry places of safegard and defence ministred to the shot and hurt persons therein. It is commonly framed of 5 battallions or squadrons, 4 in crosse wise, and one in the middle: the which middle battallion may conteine your Ensignes and short weapons: but if it be framed of 4 battallions, with the center vnfilled, then may the center containe the impedimentes and baggage of the armie.</p>
-                  <figure/>
+                  <p>
+                     <pb n="82" facs="tcp:7227:46"/>
+                     <figure/>
+                  </p>
                   <p>
                      <note place="margin">
                         <hi>A declaration of these Crosse bat<g ref="char:EOLhyphen"/>tels.</hi>
@@ -3013,12 +3086,14 @@ thinke that will not serue, then into 12 or 16 battallions, or as the passage wi
                               <desc>•</desc>
                            </gap>s.</hi>
                      </note>But before the arriuall vnto such straights and passages, the wise Commander is carefully to consider, and to send sundry scoutes abroade to discouer: and also shall cause (if possible he may) the summities, higher grounds, craggy rockes, thickets, woods, and other places of aduantage, to be first possessed by his owne people, sending to that effect, shot, halfe pikes, and such like.</p>
-                  <figure>
-                     <head>The figures of quartering a battell.</head>
-                  </figure>
-                  <figure>
-                     <pb n="91" facs="tcp:7227:50"/>
-                  </figure>
+                  <p>
+                     <figure>
+                        <head>The figures of quartering a battell.</head>
+                     </figure>
+                     <figure>
+                        <pb n="91" facs="tcp:7227:50"/>
+                     </figure>
+                  </p>
                   <p>In deuiding and quartering of all which, as may appeare, the place of the Ensi<g ref="char:EOLhyphen"/>gnes is still crossed, to redresse the which the Sergeant Maior or Colonell, may place them where he thinketh fittest: drawing out, where euery Ensigne shall stand, one pike; and replace the same pike in the first roome of the Ensigne which at the out drawing of the Ensigne remained voide.</p>
                </sp>
             </div>
@@ -3256,7 +3331,12 @@ equally strong, and apt euery way to receiue the charge: the which could not be 
                      <p>Your question is good, and I my selfe haue bethought me many times thereupon: wherefore if your ground be such that the enemies horse may charge you but vpon two parts at the most at once, then may the shot retire safely on the contrary parts: but if you be imbattailled in open <hi>Campania,</hi> without any aduan<g ref="char:EOLhyphen"/>tage for you, and your enemy very strong in horse, and you few horse or none to reanswere them,<note place="margin">
                            <hi>An order for the safegard of shot in open campania, where the enemy aboundeth in horse.</hi>
                         </note> then (in mine opinion) the surest way is thus (as I sayd be<g ref="char:EOLhyphen"/>fore) in speaking of lining of battels with shot, first to place 5, 6, and 7 rankes of armed pikes, or more, and girdle them with 5 rankes of shot, close vnder the gard and shelter of the pikes, on the out side: then againe within those first rankes of pikes, 3, 4, or 5 rankes of shot, then certaine rankes of pikes, and then shot a<g ref="char:EOLhyphen"/>gaine; and so consequently, as your numbers and occasions shall require, as in this figure appeareth.</p>
-                     <figure/>
+                     <p>
+                        <figure/>
+                        <note place="margin">
+                           <hi>The figure of such a battell of mixt weapons.</hi>
+                        </note>
+                     </p>
                      <p>
                         <hi>Here is to be noted that in such cases where your battel may be charged on euery part or side, that then those rankes in flanke which haue a wider distance then those men which are in front, doe march vp closer together, whereby they may make the front of equall strength and distance, of station euery way.</hi>
                      </p>
@@ -6515,18 +6595,24 @@ and in the fourth Columne is the remaines of the sayd battallions, which is, how
                      <item>3 The nu<g ref="char:cmbAbbrStroke">̄</g>ber of 3 hath in that columne, the nu<g ref="char:cmbAbbrStroke">̄</g>ber contained in euery seuerall battallio<g ref="char:cmbAbbrStroke">̄</g>.</item>
                      <item>4 The number of 4 hath in that columne the remaines or ouerplus.</item>
                   </list>
-                  <figure>
-                     <head>The figure of the square battell of men.</head>
-                  </figure>
+                  <p>
+                     <pb n="198" facs="tcp:7227:99"/>
+                     <figure>
+                        <head>The figure of the square battell of men.</head>
+                     </figure>
+                  </p>
                   <p>In this figure of a square battell of men, there is contained 10000 armed Pikes,
 <pb n="187" facs="tcp:7227:99"/>
 at 100 rankes, and 100 men by ranke: girdled round about with seuen rankes of shot. The rest of the shot and short weapon, are bestowed in 165 small troupes, containing 50 in euerie troupe, trouping round about the battell, so shadowing the same, and readie for skirmish, on what part soeuer the enemie should offer fight: the rest of the shot and short weapon with some pikes, are for the guard of the Artillerie and Munition.</p>
                   <figure>
                      <head>The figure of the grand square of <hi>10000</hi> Pikes, deuided into <hi>3</hi> battallions.</head>
                   </figure>
-                  <figure>
-                     <head>The figure of the grand square reduced into <hi>5</hi> Battallions.</head>
-                  </figure>
+                  <p>
+                     <pb n="188" facs="tcp:7227:100"/>
+                     <figure>
+                        <head>The figure of the grand square reduced into <hi>5</hi> Battallions.</head>
+                     </figure>
+                  </p>
                   <figure>
                      <head>The figure of the <hi>7</hi> Battallions reduced out of the grand square of men.</head>
                   </figure>
@@ -13589,12 +13675,18 @@ at 100 rankes, and 100 men by ranke: girdled round about with seuen rankes of sh
                      <p>
                         <seg rend="decorInit">I</seg>N these Tables ensuing, I haue set downe the order and setting of sundry Battels in proportio<g ref="char:cmbAbbrStroke">̄</g> of inequalitie, as 2, vnto 1, that is, twise so many men in front as in flanke, the which sort of Battels do come to co<g ref="char:cmbAbbrStroke">̄</g>taine neare a iust square or quadrate of ground, which the bat<g ref="char:EOLhyphen"/>tels of proportio<g ref="char:cmbAbbrStroke">̄</g> of equalitie (that is so many me<g ref="char:cmbAbbrStroke">̄</g> in flank as in front) doe not: for they containe in ground, twise and more the quantitie of ground, in flanke or length that they doe in front or breadth; the reason and order thereof I haue in my 3. booke, in fol. 45, 46 &amp;c. &amp; 50 at large declared, &amp; so co<g ref="char:cmbAbbrStroke">̄</g>tinuing, shew<g ref="char:EOLhyphen"/>ing therein, rules Arithmeticall to set all such sortes of Battels, &amp; their impale<g ref="char:EOLhyphen"/>ment with armed pikes; and diuisions into <hi>Maniples</hi>: here onely contenting my selfe with setting forth the figures and Tables of the sayd Battels in proportion of inequalitie; and how they are to be ordered into ranks for marching, &amp; into <hi>Mani<g ref="char:EOLhyphen"/>ples,</hi> and girdling with shot, as before in the Tables of squares of me<g ref="char:cmbAbbrStroke">̄</g>, or Battels in proportion of equalitie, is at large set downe and declared. And also on the left side of euery leafe is set downe the said Battels or broad squares, deuided into sun<g ref="char:EOLhyphen"/>dry battallions of that kinde, as into 3 or 5 battallions: the number of which bat<g ref="char:EOLhyphen"/>tallions in each of them contained, you shall finde euermore in the first Columne of euery leafe on the right side; &amp; where you find the number of your battallions, there shall you see, betwixt two long rules in that distinction (placed in the 2 Co<g ref="char:EOLhyphen"/>lumne) how euery battallion shall be set in front &amp; flanke, which is the iust square roote of euery battallion. Finally, I haue here before you set downe first, the figure of the sayd broad square of men, or Battell in proportion of inequalitie, as 2 vnto 1, which commeth to containe, neare the iust quadrat of ground, girdled round about with 7 rankes of shot; and the rest of the shot, and short weapon due to this number and proportion of pikes, are deuided into sundry troupes of 50, in euery troupe, trouping round about the maine Battell; as I haue done before in the fi<g ref="char:EOLhyphen"/>gure of the iust square of men. I haue here also desseigned in figure the said broad square or hearst Battell, deuided into sundry battallions of that kinde, as first into 3 battallions, then into 5 battallions, as in page 212 may appeare: each battal<g ref="char:EOLhyphen"/>lion is girdled with 3 rankes of shot; the rest of the shot and short weapon belon<g ref="char:EOLhyphen"/>ging vnto the sayd numbers, may bee placed in sundry small troupes, as is in the broad square, trouping round about the same: or as the Sergeant Maior shall o<g ref="char:EOLhyphen"/>therwise thinke good: or as the ground will permit, or occasions offered to fight.</p>
                      <figure/>
-                     <figure>
-                        <head>The figure of a Broad square Battell, trouped round about with shot.</head>
-                     </figure>
-                     <figure>
-                        <head>The figure of <hi>3</hi> Battallions, reduced out of the Broade square.</head>
-                     </figure>
+                     <p>
+                        <pb n="211" facs="tcp:7227:111"/>
+                        <figure>
+                           <head>The figure of a Broad square Battell, trouped round about with shot.</head>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb n="212" facs="tcp:7227:112"/>
+                        <figure>
+                           <head>The figure of <hi>3</hi> Battallions, reduced out of the Broade square.</head>
+                        </figure>
+                     </p>
                      <figure>
                         <head>The figure of fiue Battallions, reduced out of the Broade square.</head>
                      </figure>
@@ -19905,7 +19997,12 @@ at 100 rankes, and 100 men by ranke: girdled round about with seuen rankes of sh
                      </note> standing in battell aray, three foote of ground (at the least) for breadth, and 7 foote of ground for length: and vnto eue<g ref="char:EOLhyphen"/>rie horse, 5 foote in breadth, and 10 foote in length, or more or lesse, so much as shall seeme good to the skilfull souldier. And this practise of going pases shall not onely be auaileable to the good souldier or Sergeant Maior, for the know<g ref="char:EOLhyphen"/>ledge of anie seate or peece of ground to embattell anie number of men vpon; but also to know how to march through anie straights or passages, and also to en<g ref="char:EOLhyphen"/>campe an Armie: giuing vnto euerie regiment of horse and foote their due quarter, with their proportionall places: and to know moreouer, the whole compasse or circumference of such encamping; as in our fift booke, folio 155 &amp;c. is at large described. Now therefore, let vs set downe, to arme a peece of ground, or to know what number of men may stand vpon the same in battell array, ha<g ref="char:EOLhyphen"/>uing first made familiar, and bene well practised with his going pases to the pro<g ref="char:EOLhyphen"/>portion of the pase of 5 foote of measure; and so that two of his going pases may make one pase of measure of 5 foote:<note place="margin">
                         <hi>Two going pases to make a geome<g ref="char:EOLhyphen"/>tricall pase.</hi>
                      </note> and let vs suppose, that such a peece of ground doth containe in length 100 going pases; which, after two going pases to one pase of measure, do make 50 pases of measure: and is in breadth 80 going pa<g ref="char:EOLhyphen"/>ses, which are pases of measure 40, as here in this figure shall appeare.</p>
-                  <figure/>
+                  <p>
+                     <note place="margin">
+                        <hi>The pase of ground.</hi>
+                     </note>
+                     <figure/>
+                  </p>
                   <p>And now to arme and embattell the said seate or peece of ground, with pikes armed, and vnarmed. To do this you must first consider how many pikes, armed, and vnarmed,<note place="margin">
                         <hi>To embattell the sayd peece of ground.</hi>
                      </note> will serue to arme or embattell vpon the sayd peece of ground, in this sort: multiply the 50 pases of length, and the 40 pases of breadth, by 5 foote, (the length of the propounded measure) and there will come foorth 250 foote for the length,<note place="margin">
@@ -19917,7 +20014,12 @@ front of the battell,<note place="margin">
                            <desc>〈 math 〉</desc>
                         </gap>
                      </note> vpon the length of the sayd seate, or peece of ground, deuide the 250 by 3 foote, which is supposed to allow to euery pikeman for his station in breadth, and it produceth 83 men in ranke for breadth, and 1 foote of ground remaining, the which we make no account of. And of the 200 foote of breadth of ground will we make the ranks in length, by deuiding the said 200 by 7 foot, as is set downe, to giue vnto euery pikeman of the breadth for his station of ground, and it produceth 28 rankes of men. So to arme or embattell the sayd seate or ground, it will require 28 rankes, at 83 men by ranke, betwixt pikes armed and vnarmed, if you haue not all armed pikes (the which were farre better if it might so be) as in this figure here following shall appeare.</p>
-                  <figure/>
+                  <p>
+                     <figure/>
+                     <note place="margin">
+                        <hi>The embattelling the same with pikes.</hi>
+                     </note>
+                  </p>
                   <p>And now to know how many pikes,<note place="margin">
                         <hi>The arithmetical rules.</hi> 
                         <gap reason="math">
@@ -19935,19 +20037,50 @@ front of the battell,<note place="margin">
                            <desc>〈 math 〉</desc>
                         </gap>
                      </note> in front, flankes, and rereward: and suppose that in the sayd number of 2324 pikes, there be 1200 armed pikes: and to arme the front, flankes, and traine proportio<g ref="char:EOLhyphen"/>nally with the sayd armed pikes, you shall worke in this order: summe together the length and breadth of the sayd battell, that is, 28 with 83, and it amounteth 111. Now set downe your rule in this sort:—if 1/111—2/28—3/1200. And then multiplying the 28 second with 1200 third, and it commeth to 33600, and this 33600, shall bee deuided by 111, <hi>prima,</hi> and it produceth 302 and 78 remaining whereof 100 make noe account. Nowe this 302 shall bee deducted out of 1200, and there will remaine 898 armed pikes; and these 898 shall arme the front and traine of your battell: and the 302 shall serue to arme the two flankes of the sayd battell; and then deuiding the 302 by 28, the length or flankes of your battell, and it produceth 10 men <hi>per</hi> ranke of armed pikes to arme the two sides or flankes: of the which 10 there shall be 5 rankes placed on the one flanke, and 5 rankes on the other flanke: as in the figure in the next page appeareth.</p>
-                  <figure/>
+                  <p>
+                     <pb n="236" facs="tcp:7227:124"/>
+                     <figure/>
+                     <note place="margin">
+                        <hi>The empalement in flankes.</hi> 
+                        <gap reason="math">
+                           <desc>〈 math 〉</desc>
+                        </gap>
+                     </note>
+                  </p>
                   <p>And there remaineth 22 armed pikes, the which 22 shall be added vnto 898, and it maketh 920 armed pikes: and with these 920 armed pikes, you shall arme the front and trayne of the sayd battell, by deuiding the 920 by the breadth: but you must first deduct the 10 men <hi>per</hi> ranke, which serued to arme the two flankes, out of 83 the breadth, and there will remaine 73 men <hi>per</hi> ranke for the inner breadth or front of the battell: now deuide the 920 armed pikes by 73, and it will come to be 12 ranks of armed pikes,<note place="margin">
                         <hi>The rule.</hi>
                      </note> and 44 remaining: and of these 12 ranks, there shall be set 6 rankes in the front of the battell, and 6 rankes in the rereward of the battell; as in this figure you may perceiue.</p>
-                  <figure/>
+                  <p>
+                     <figure/>
+                     <note place="margin">
+                        <hi>The impalem<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t in fl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>e, fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, and rereward.</hi>
+                     </note>
+                  </p>
                   <p>And againe, if with these 1200 armed pikes, you would arme the one, or two parts of the battell more strong then the rest, and where you do most suspect the enemy; and that the other part or parts shall be secure and fenced with the nature of the seate or ground;<note place="margin">
                         <hi>The rule.</hi>
                      </note> then the 10 men <hi>per</hi> ranke, which armed the two flankes, shall be placed on the one side or flanke onely, where you shall see most occasion: and the like shall bee done with the 12 rankes of armed men, which armed the front and trayne, placing them either all in front, or all in trayne, as shall bee found most needful, where the enemy is most to be suspected, as in the figure fol<g ref="char:EOLhyphen"/>lowing shall appeare.</p>
-                  <figure/>
+                  <p>
+                     <pb n="237" facs="tcp:7227:124"/>
+                     <figure/>
+                     <note place="margin">
+                        <hi>The empalement in front and on one flanke.</hi>
+                     </note>
+                  </p>
                   <p>And moreouer, if with the sayd 1200 armed pikes, you would arme the front of your battell only,<note place="margin">
                         <hi>The rule.</hi>
                      </note> then deuide the 1200 pikes by 83, the number of men in front, and there will come foorth to be 14 rankes of armed pikes for the front, or head of the battell only, as in this figure following may be seene.</p>
-                  <figure/>
+                  <p>
+                     <figure/>
+                     <note place="margin">
+                        <hi>The front armed onely.</hi>
+                     </note>
+                  </p>
                   <p>And there remaineth 38 armed pikes, the which shall be placed, where the Ser<g ref="char:EOLhyphen"/>geant Maior shall thinke most conuenient, within the body of the battell.</p>
                </sp>
                <sp>
@@ -19966,7 +20099,13 @@ front of the battell,<note place="margin">
                               <desc>•</desc>
                            </gap>r his stati<g ref="char:EOLhyphen"/>on of ground.</hi>
                      </note> to allow for euery hargubuzier his station of ground, 4 foote for length, and 4 foote for breadth. Then reparting 250 foote by 4, it produceth 50, not reckening the ouerplus: and willing to make the head of front or your battell vpon the longest breadth or part of the seate of ground, your front will come to containe 62 shot in front, and 50 rankes in flanke, as here in the figure following may appeare.</p>
-                  <figure/>
+                  <p>
+                     <pb n="238" facs="tcp:7227:125"/>
+                     <note place="margin">
+                        <hi>Armed with shot.</hi>
+                     </note>
+                     <figure/>
+                  </p>
                   <p>
                      <note place="margin">
                         <hi>The number of shot contained.</hi>
